@@ -1,5 +1,6 @@
 # GLFWCMakeSetup
 
+## Not Created by me all credit goes to meemknight check him out https://github.com/meemknight
 ---
 
 ## What is it?
